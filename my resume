@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            wafula kevin resume
+        </title>
+         <style>
+            footer{ 
+                text-align:center;
+                padding: 10px;
+                background-color: #ddd;
+            }
+            table{
+                width: 100%;
+                border:1px solid black;
+        }
+        dt{
+            font-weight:bold;
+            font-size: 2em;
+        }
+        section{
+            padding: 10px;
+            border: 1px solid black;
+            margin: 10px;
+        }
+
+        </style>
+    </head>
+    <body>
+        <header class="header"><h1>wafula kevin</h1></header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#Exp">Experience</a></li>
+                <li><a href="#Edu">Education</a></li>
+                <li><a href="#Int">Interest</a></li>
+                <li><a href="#Ski">Skills</a></li>
+                <li><a href="#con">Contact</a></li>
+            </ul>
+        </nav>
+        <artical><P>welcome to my resume</P>
+            <hr>
+        <p>My name is wafula kevin</p>
+
+    </artical>
+        
+
+        <section id="Exp">
+            <h2>Experience</h2>
+            <table>
+                <colgroup>
+                <col span="1" style="background-color:#ddd">
+            </colgroup>
+                <tr>
+                    <td>company</td>
+                    <td>details</td>
+                    <td>years</td>
+                </tr>
+                <tr>
+                    <td>discovery vp</td>
+                    <td>created courses</td>
+                    <td>2021-2022</td>
+                </tr>
+                <tr>
+                    <td>Basesscripts</td>
+                    <td>online E-learning</td>
+                    <td>2022-2023</td>
+                </tr>
+                <tr>
+                    <td>Basesscripts</td>
+                    <td>online E-learning</td>
+                    <td>2023-2024</td> 
+
+                </tr>
+
+            </table>
+        </section>
+        <section id="educ">
+            <h2>Education</h2>
+            <dl>
+                <dt>my university</dt>
+                <dd>ndejje university</dd>
+                <dt>Diploma</dt>
+                <dd>infomation technology</dd>
+             </dl>
+        </section>
+        <section id="Int">
+            <h2>Interest</h2>
+            <ul>
+                <li>HTML</li>
+                <li>javascript</li>
+                <li>CSS</li>
+            </ul>
+        </section>
+        <section id="Ski">
+            <h2>Skills</h2>
+            <ol>
+                <li>computer</li>
+                <li>playing volleyball</li>
+                <li>CSS</li>
+                <ul>
+                    <li>dom</li>
+                    <li>node</li>
+                </ul>
+            </ol>
+        </section>
+        <section id="con">
+            <p>Contact</p>
+            <p>contact me at my email<a href="mail to me:wafulak051@gmail.com">wafulak051@gmail.com</a></p>
+        </section>
+
+        </section>
+        <footer class="footer">copy (C) 2024 wafula kevin this is the right information</footer>
+    </body>
+</html>
